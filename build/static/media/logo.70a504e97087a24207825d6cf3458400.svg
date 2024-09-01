@@ -1,0 +1,16 @@
+
+<svg width="43.22mm" height="34.793mm" version="1.1" viewBox="0 0 43.22 34.793" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-70.002 -54.972)">
+  <g fill-rule="evenodd">
+   <ellipse cx="80.263" cy="65.576" rx="7.2957" ry="6.8271" fill="#a00" style="paint-order:markers fill stroke"/>
+   <ellipse cx="102.77" cy="65.276" rx="7.2957" ry="6.8271" fill="#a00" style="paint-order:markers fill stroke"/>
+   <ellipse cx="92.535" cy="66.947" rx="7.2957" ry="6.8271" fill="#ff7f2a" style="paint-order:markers fill stroke"/>
+   <rect x="102.19" y="56.03" width="1.2799" height="4.2986" style="paint-order:markers fill stroke"/>
+   <rect x="79.687" y="56.33" width="1.2799" height="4.2986" style="paint-order:markers fill stroke"/>
+   <rect x="70.002" y="65.2" width="43.22" height="24.565" fill="#008080" style="paint-order:markers fill stroke"/>
+  </g>
+  <text transform="scale(.26458)" fill="#000000" font-family="sans-serif" font-size="40px" style="line-height:1.25;shape-inside:url(#rect1323);white-space:pre" xml:space="preserve"/>
+  <text x="92.506416" y="77.34005" fill="#ffffff" font-family="sans-serif" font-size="7.0556px" stroke-width=".26458" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="92.506416" y="77.34005" text-align="center">Green</tspan><tspan x="92.506416" y="86.1595" text-align="center">Basket</tspan></text>
+  <rect x="69.871" y="65.028" width="43.36" height="3.9181" fill="#2b0000" fill-rule="evenodd" style="paint-order:markers fill stroke"/>
+ </g>
+</svg>
